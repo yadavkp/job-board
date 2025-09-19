@@ -22,11 +22,7 @@
   - Our API list (Parsing, Revealing, Embedding, Searching, Scoring, Reasoning) : https://www.hrflow.ai/api
   - Our cool demos labs : https://labs.hrflow.ai
 
-## 🙈 Demo of open-jobboard
-  Vidéo demo: https://hrflow.wistia.com/medias/gvf4u3fe48
-  <br/>
-  <br/>
-  ![alt text](https://s3.amazonaws.com/img.riminder.net/Screen+Shot+2020-12-12+at+23.11.00.png)
+
 
 
 ## 🚀 Quick start
